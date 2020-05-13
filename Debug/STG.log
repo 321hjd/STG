@@ -1,0 +1,13 @@
+﻿  Game.cpp
+d:\18482\visual studio\source\repos\stg\stg\game.cpp(86): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+d:\18482\visual studio\source\repos\stg\stg\game.cpp(87): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+d:\18482\visual studio\source\repos\stg\stg\game.cpp(88): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+d:\18482\visual studio\source\repos\stg\stg\game.cpp(89): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+d:\18482\visual studio\source\repos\stg\stg\game.cpp(184): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\18482\visual studio\source\repos\stg\stg\game.cpp(259): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\18482\visual studio\source\repos\stg\stg\game.cpp(273): warning C4244: “参数”: 从“GLuint”转换到“GLfloat”，可能丢失数据
+d:\18482\visual studio\source\repos\stg\stg\game.cpp(282): warning C4244: “参数”: 从“float”转换到“GLuint”，可能丢失数据
+d:\18482\visual studio\source\repos\stg\stg\game.cpp(284): warning C4244: “参数”: 从“float”转换到“GLuint”，可能丢失数据
+d:\18482\visual studio\source\repos\stg\stg\game.cpp(286): warning C4244: “参数”: 从“float”转换到“GLuint”，可能丢失数据
+d:\18482\visual studio\source\repos\stg\stg\game.cpp(288): warning C4244: “参数”: 从“float”转换到“GLuint”，可能丢失数据
+  STG.vcxproj -> D:\18482\visual studio\source\repos\STG\Debug\STG.exe
